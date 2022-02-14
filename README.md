@@ -1,7 +1,7 @@
 # bikcraft
- Um site completo de venda de bicicletas, nele explorei mais o uso da propriedade float e de animações em JavaScript através de um arquivo de código de animações já prontos no GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="20" />. Além disso, possuí diversas metatags que auxiliam na indexação do site pelos mecanismos de busca (SEO).
+ Um site completo de venda de bicicletas, nele explorei mais o uso da propriedade float e de animações em JavaScript através de um arquivo de código de animações já prontos no GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="20" />. Além disso, possuí diversas metatags que auxiliam na indexação do site pelos mecanismos de busca (SEO). **[Link p/ o Bikcraft!](https://pedrohenriquesampaionovaes.github.io/bikcraft/)**
  
- <div align="center">
+<div align="center">
  <img src="https://user-images.githubusercontent.com/92189897/153946046-aaf11e6c-03af-4db3-abb9-afe6a41d19d2.gif" width="600"></img>
 </div>
 
