@@ -1,0 +1,159 @@
+/* Para Tablets ----------
+*/
+@media only screen and (min-width: 789px) and (max-width: 979px) {
+  /* Produtos */
+  .produtos_lista li {
+    height: 314px;
+  }
+
+  .produtos_lista li p {
+    padding: 10px 30px 20px 30px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+  }
+
+  .produto_item h2 {
+    top: -148px;
+  }
+
+  .produto_info p {
+    color: #fff;
+    padding: 20px 30px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .produto_info ul li {
+    width: 181px;
+  }
+
+  /* Qualidade */
+  .qualidade::after {
+    left: 68px;
+  }
+
+  /* Footer Contato */
+  .footer_redes ul li a {
+    padding: 6px;
+  }
+
+  .footer_redes ul li a img {
+    width: 26px;
+    height: 26px;
+  }
+}
+
+/* Para Smartphones ----------
+*/
+@media only screen and (max-width: 788px) {
+  /* Cabeçaho */
+  header {
+    position: static;
+    padding-bottom: 0px;
+  }
+
+  header a img {
+    margin: 0 auto 10px auto;
+  }
+
+  .header_menu {
+    text-align: center;
+  }
+
+  .header_menu ul li {
+    margin: 5px;
+  }
+
+  .header_menu ul li a {
+    display: block;
+    float: left;
+    border: 4px solid #000;
+    width: 136px;
+  }
+
+  .header_menu ul li a:hover {
+    border-color: #fff;
+  }
+
+  /* Introdução */
+  .introducao {
+    margin-top: 0;
+    background: url(../img/bg-mobile.jpg) no-repeat;
+    padding-top: 40px;
+  }
+
+  .introducao h1 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .introducao .btn {
+    margin-top: 25px;
+  }
+
+  .introducao_interna {
+    margin-top: 0;
+  }
+
+  /* Produtos */
+  .call {
+    padding-top: 10px;
+  }
+
+  .produto_item h2 {
+    top: -100px;
+    margin-bottom: -65px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+  }
+
+  .produto_info p {
+    color: #fff;
+    padding: 20px 30px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .produto_info ul li {
+    width: 149px;
+    font-size: 14px;
+  }
+
+  /* Form */
+  .form {
+    padding-right: 0;
+  }
+
+  .orcamento_dados ul {
+    padding-right: 0;
+  }
+
+  .contato_form {
+    padding-right: 0;
+    margin-bottom: 40px;
+  }
+
+  /* História */
+  .historia p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 0;
+  }
+
+  /* Qualidade */
+  .qualidade::after {
+    content: normal;
+    background: none;
+  }
+
+  /* Rodapé */
+  .copy {
+    padding-bottom: 0;
+  }
+}

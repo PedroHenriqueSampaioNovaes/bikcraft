@@ -1,0 +1,27 @@
+/* Introdução Interna */
+.interna_portfolio {
+  background: url(../img/bg-portfolio.jpg) no-repeat center;
+  background-size: cover;
+}
+
+/* Quote Clientes */
+.quote_clientes {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+.quote_clientes p {
+  text-align: center;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+
+.quote_clientes cite {
+  display: block;
+  text-align: right;
+  font-weight: bold;
+  font-size: 18px;
+}
